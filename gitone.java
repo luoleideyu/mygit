@@ -1,2 +1,2 @@
-i will test git
-  are you ready?
+git is a distributed version control system.
+git is a free software
